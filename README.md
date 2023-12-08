@@ -15,10 +15,10 @@
   - Entity Framework and Linq
   - Twitter Bootstrap and Material Design
   - OAuth2 and OWIN
-  - GitHub, Azure DevOps, 
+  - GitHub, Azure DevOps
 
 - 🔬&nbsp; <strong>I'm currently exploring</strong>:
-Architecture Jamstack <br/>
+<br/><br/>Architecture Jamstack <br/>
 <img
    src="https://d33wubrfki0l68.cloudfront.net/21c2e938a6a0468a8583b905f1156521c456f79c/2612d/img/logo/svg/jamstack_logo_darkbg.svg"
    alt="aws"
@@ -26,8 +26,8 @@ Architecture Jamstack <br/>
    alt="Jamstack image: Jamstack_Logo_DarkBG"
  />
 
-- 📫&nbsp;<strong>How to reach me?</strong>:
-  - [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/)
+- 📫&nbsp;<strong>How to reach me?</strong>:<br/><br/>
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/)
 - 📊&nbsp; <strong>My Stats</strong>:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandaramla&show_icons=true&locale=en&theme=radical" alt="sikandar amla" /></p>  
