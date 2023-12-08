@@ -2,20 +2,20 @@
 
 ***Being part of the open-source community is like joining a cool club where you get to learn, teach, and get hands-on experience in all kinds of skills. It's super rewarding, like a treasure trove of knowledge. You help others, and they help you back—it's a win-win. It's basically a fun way to get better at pretty much anything you're into.*** :sparkles: 
 
-⚒️&nbsp; <strong>Languages, libraries, database, frameworks, tools and others</strong>:
-  🔸 .Net MAUI
-  🔸 Xamarin.Forms
-  🔸 .Net Core for Web APIs
-  🔸 Angular and Typescript
-  🔸 MySQL, PostgreSQL, MS SQL, Amazon DynamoDB, Firebase Realtime DB
-  🔸 Microsoft Azure and AWS
-  🔸 Javascript and jQuery
-  🔸 SaaS, PaaS
-  🔸 Telerik and Syncfusion Controls
-  🔸 Entity Framework and Linq
-  🔸 Twitter Bootstrap and Material Design
-  🔸 OAuth2 and OWIN
-  🔸  GitHub, Azure DevOps
+⚒️&nbsp; <strong>Languages, libraries, database, frameworks, tools and others</strong>:<br/>
+  🔸 .Net MAUI<br/>
+  🔸 Xamarin.Forms<br/>
+  🔸 .Net Core for Web APIs<br/>
+  🔸 Angular and Typescript<br/>
+  🔸 MySQL, PostgreSQL, MS SQL, Amazon DynamoDB, Firebase Realtime DB<br/>
+  🔸 Microsoft Azure and AWS<br/>
+  🔸 Javascript and jQuery<br/>
+  🔸 SaaS, PaaS<br/>
+  🔸 Telerik and Syncfusion Controls<br/>
+  🔸 Entity Framework and Linq<br/>
+  🔸 Twitter Bootstrap and Material Design<br/>
+  🔸 OAuth2 and OWIN<br/>
+  🔸 GitHub, Azure DevOps<br/>
 
 🔍&nbsp; <strong>I'm currently exploring</strong>:
 <br/><br/>Architecture Jamstack <br/>
@@ -27,7 +27,7 @@
  />
 
 💌&nbsp;<strong>How to reach me?</strong>:<br/><br/>
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/) <br/>
 🎢&nbsp; <strong>My Stats</strong>:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandaramla&show_icons=true&locale=en&theme=radical" alt="sikandar amla" /></p>  
