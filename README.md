@@ -2,7 +2,7 @@
 
 ***Being part of the open-source community is like joining a cool club where you get to learn, teach, and get hands-on experience in all kinds of skills. It's super rewarding, like a treasure trove of knowledge. You help others, and they help you back—it's a win-win. It's basically a fun way to get better at pretty much anything you're into.*** :sparkles: 
 
-- 🛠&nbsp; *Languages, libraries, database, frameworks, tools and others*:
+- 🛠&nbsp; <strong>Languages, libraries, database, frameworks, tools and others</strong>:
   - .Net MAUI
   - Xamarin.Forms
   - .Net Core for Web APIs
@@ -17,7 +17,7 @@
   - OAuth2 and OWIN
   - GitHub, Azure DevOps, 
 
-- 🔬&nbsp; *I'm currently exploring*:
+- 🔬&nbsp; <strong>I'm currently exploring</strong>:
   - Architecture Jamstack <br/>
 <img
    src="https://d33wubrfki0l68.cloudfront.net/21c2e938a6a0468a8583b905f1156521c456f79c/2612d/img/logo/svg/jamstack_logo_darkbg.svg"
@@ -26,7 +26,7 @@
    alt="Jamstack image: Jamstack_Logo_DarkBG"
  />
   - Next.js
-- 📫&nbsp;How to reach me?:
+- 📫&nbsp;<strong>How to reach me?</strong>:
   - [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" /></p>
