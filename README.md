@@ -28,7 +28,7 @@
 
 💌&nbsp;<strong>How to reach me?</strong>:<br/><br/>
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/)
-- 🎢&nbsp; <strong>My Stats</strong>:
+🎢&nbsp; <strong>My Stats</strong>:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandaramla&show_icons=true&locale=en&theme=radical" alt="sikandar amla" /></p>  
 
