@@ -29,14 +29,13 @@
 💌&nbsp;<strong>How to reach me?</strong>:<br/>
 &emsp;&emsp;[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%23316dca?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sikandar-amla/) <br/>
 
-🎢&nbsp; <strong>My Stats</strong>:
-<p>&emsp;&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandaramla&show_icons=true&locale=en&theme=radical" alt="sikandar amla" /></p>  
+🎢&nbsp; <strong>My Stats</strong>:<br/>
+&emsp;&emsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sikandaramla&show_icons=true&locale=en&layout=compact&theme=radical" alt="sikandar amla" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sikandaramla&show_icons=true&locale=en&theme=radical" alt="sikandar amla" /> 
 
-🏆&nbsp; <strong>My Lifetime Goal</strong>:
-<p style='color: #000!important;background-color: #ffeb3b!important;padding: 0.01em 16px;'>
-&emsp;&emsp;To be a perpetual learner, always seeking to broaden my knowledge and embrace new skills throughout life. Committed to continuous growth and staying curious.  
-</p>
+🏆&nbsp; <strong>My Lifetime Goal</strong>:<br/>
+To be a perpetual learner, always seeking to broaden my knowledge and embrace new skills throughout life. Committed to continuous growth and staying curious.  
+
 
 
 
